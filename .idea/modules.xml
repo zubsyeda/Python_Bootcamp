@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CoffeeMachine/.idea/CoffeeMachine.iml" filepath="$PROJECT_DIR$/CoffeeMachine/.idea/CoffeeMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_19/.idea/Etch-a-Sketch Project.iml" filepath="$PROJECT_DIR$/day_19/.idea/Etch-a-Sketch Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/PongGame/.idea/PongGame.iml" filepath="$PROJECT_DIR$/PongGame/.idea/PongGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Python_Bootcamp.iml" filepath="$PROJECT_DIR$/.idea/Python_Bootcamp.iml" />
       <module fileurl="file://$PROJECT_DIR$/SnakeGame/.idea/SnakeGame.iml" filepath="$PROJECT_DIR$/SnakeGame/.idea/SnakeGame.iml" />
