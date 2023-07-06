@@ -28,7 +28,7 @@ while game_is_on:
     for i in car.car_list:
         if turtle.distance(i) < 25:
             scoreboard.game_over()
-            
+
             game_is_on = False
 
 
