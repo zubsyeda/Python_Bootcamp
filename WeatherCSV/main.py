@@ -23,12 +23,12 @@ data = pandas.read_csv("weather_data.csv")
 # print(type(data))
 # print(type(data["temp"]))
 
-# data_dict = data.to_dict()
-# print(data_dict)
+data_dict = data.to_dict()
+print(data_dict)
 #
 # max_temp = data["temp"].max()
 # print(data[data.temp == max_temp])
-
-monday = data[data.day == "Monday"]
-monday_temp = monday.temp * 9/5 + 32
-print(monday_temp)
+#
+# monday = data[data.day == "Monday"]
+# monday_temp = monday.temp * 9/5 + 32
+# print(monday_temp)
