@@ -18,9 +18,7 @@ missed = []
 while score != 50:
     answer_state = screen.textinput(title=f"{score}/50 States Correct", prompt="What's another state's name").title()
     if answer_state == "Exit":
-        for i in states_list:
-            if i not in correct_guesses:
-                missed.append(i)
+        missed = [state for state in states_list if state not in correct_guesses]
         new_data = pandas.DataFrame(missed)
         new_data.to_csv("states_to_learn.csv")
         break

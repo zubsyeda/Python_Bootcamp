@@ -14,5 +14,6 @@
     <orderEntry type="module" module-name="Squirrel" />
     <orderEntry type="module" module-name="WeatherCSV" />
     <orderEntry type="module" module-name="US States Game " />
+    <orderEntry type="module" module-name="NATO-Project" />
   </component>
 </module>
