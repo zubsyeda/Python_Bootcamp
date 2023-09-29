@@ -7,6 +7,8 @@ These are my projects from the course 100 Days of Code: The Complete Python Pro 
 ### Projects
 | Project  | Date       | Topics Covered                 | Language | Notes/Comments        |
 |--------------|------------|--------------------------------|----------|-----------------------|
-| Snake Game    | 2022-01-15 | Inheritance, Slicing, OOP      | Java | Make this in C++ too!       |
-| Coffee Machine    | 2022-02-03 | Basic                  | JAVA   | MAKE THIS USING OOP |
+| Snake Game    | 2022-01-15 | Inheritance, Slicing, OOP      | Python | Start adding additional game levels!       |
+| Coffee Machine    | 2022-02-03 | Object-Oriented Programming                | Python   |  |
+| Map Game    | 2022-02-03 | Tkinker               | Python   | Add a congratulations message! |
+
 
