@@ -5,10 +5,10 @@ These are my projects from the course 100 Days of Code: The Complete Python Pro 
 
 <a href = "https://www.udemy.com/course/100-days-of-code/">Link</a>
 ### Projects
-| Project  | Date       | Topics Covered                 | Language | Notes/Comments        |
+| Project  | Description       | Topics Covered                 | Language | Notes/Comments        |
 |--------------|------------|--------------------------------|----------|-----------------------|
-| Snake Game    | 2022-01-15 | Inheritance, Slicing, OOP      | Python | Start adding additional game levels!       |
-| Coffee Machine    | 2022-02-03 | Object-Oriented Programming                | Python   |  |
-| US States Game    | 2022-02-03 | Tkinker, Pandas            | Python   | Add a congratulations message! |
+| Snake Game    | Classic Snake Game! Try not to hit the wall or yourself and collect as many points as you can! | Inheritance, Slicing, OOP      | Python | Start adding additional game levels!       |
+| Coffee Machine    | Updates ingredients and calculates profit made in a coffee machine, depending on what drinks the user orders! | Object-Oriented Programming                | Python   |  |
+| US States Game    | Do you all 50 states of America? | Tkinker, Pandas            | Python   | Add a congratulations message! |
 
 
