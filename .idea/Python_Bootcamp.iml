@@ -15,5 +15,6 @@
     <orderEntry type="module" module-name="WeatherCSV" />
     <orderEntry type="module" module-name="US States Game " />
     <orderEntry type="module" module-name="NATO-Project" />
+    <orderEntry type="module" module-name="PomodoroProject" />
   </component>
 </module>
