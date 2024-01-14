@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BirthdayWisherProject/.idea/BirthdayWisherProject.iml" filepath="$PROJECT_DIR$/BirthdayWisherProject/.idea/BirthdayWisherProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/CoffeeMachine/.idea/CoffeeMachine.iml" filepath="$PROJECT_DIR$/CoffeeMachine/.idea/CoffeeMachine.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_19/.idea/Etch-a-Sketch Project.iml" filepath="$PROJECT_DIR$/day_19/.idea/Etch-a-Sketch Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlashCardProjectCapstone/.idea/FlashCardProjectCapstone.iml" filepath="$PROJECT_DIR$/FlashCardProjectCapstone/.idea/FlashCardProjectCapstone.iml" />
